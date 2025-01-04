@@ -48,7 +48,7 @@
 - name: voice_recorder
   enabled: true
 - name: mobile_v2
-  enabled: false
+  enabled: true
 - name: channel_website
   enabled: true
 - name: campaigns
@@ -77,7 +77,7 @@
 - name: insert_article_in_reply
   enabled: false
 - name: inbox_view
-  enabled: false
+  enabled: true
 - name: sla
   enabled: false
   premium: true
@@ -86,9 +86,9 @@
   enabled: false
   premium: true
 - name: linear_integration
-  enabled: false
+  enabled: true
 - name: captain_integration
-  enabled: false
+  enabled: true
 - name: custom_roles
   enabled: false
   premium: true
@@ -107,14 +107,14 @@
 - name: hide_all_inbox_for_agent
   enabled: false
 - name: channel_sms
-  enabled: false
+  enabled: true
 - name: channel_whatsapp
   enabled: true
 - name: channel_telegram
-  enabled: false
+  enabled: true
 - name: channel_line
-  enabled: false
+  enabled: true
 - name: channel_api
   enabled: true
 - name: wavoip
-  enabled: false
+  enabled: true
